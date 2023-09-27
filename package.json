@@ -7,8 +7,7 @@
     "start": "webpack serve",
     "build": "webpack --mode production",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "test": "jest"
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "dotenv-webpack": "^8.0.1",
