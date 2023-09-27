@@ -1,0 +1,12 @@
+.btn {
+  padding: 10px;
+  background: rgb(198, 242, 198);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  box-shadow: 3px 3px 4px 0px #424040;
+}
+.btn:active {
+  box-shadow: -3px -3px 4px 0px #424040 inset;
+}

@@ -1,0 +1,10 @@
+:root {
+  --tableHeadBg: #000;
+  --tableHeadCol: white;
+  --tableBg: #eee;
+  --tableCol: #111;
+}
+
+.h1 {
+  text-align: center;
+}
